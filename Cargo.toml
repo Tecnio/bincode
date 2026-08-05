@@ -42,7 +42,7 @@ ouroboros = "0.18.5"
 serde_derive = "1.0"
 serde_json = { version = "1.0", default-features = false }
 tempfile = "3.27"
-criterion = "0.7"
+criterion = "0.8"
 rand = "0.10"
 uuid = { version = "1.24", features = ["serde"] }
 chrono = { version = "0.4", features = ["serde"] }
